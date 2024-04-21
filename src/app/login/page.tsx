@@ -4,7 +4,7 @@ export default function loginPage() {
             <div className="row">
                 <div className="col-md-12">
                     <h1>Login Page</h1>
-                    <h4>This is a test - pradhan</h4>
+                    <h2>This is a change by Sourav Ganguly</h2>
                 </div>
             </div>
         </div>
